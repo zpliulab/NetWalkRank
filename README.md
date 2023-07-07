@@ -17,7 +17,8 @@ The serial number (1) (2) ... (10) represents the order in which the program run
 - (2) MI_Computation.R ------- Computing mutual information between genes in each layer to weight the connections.
 - (3) Layer_Preparation.R ------- Filter the edges based on mutual information higher than a threshold.
 - (4) REGmlwpFC.R ------- Calculate the nodes' scores.
-- (5) MachineLearningResults.R ------- Calculate sensivity, specificity, accuracy and etc. by random forest on the genes' scores.
+- (5) FeatureSelection.R ------- Select features and machine learning method according to genes' scores.
+- (6) MachineLearningResults.R ------- Calculate sensivity, specificity, accuracy and etc. by random forest on the genes' scores.
 
 
 
