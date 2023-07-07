@@ -25,7 +25,7 @@ The serial number (1) (2) ... (9) represents the order in which the program runs
 
 # Other Code
 We compare our method with the other methods. Also, we compare results of using different protein-protein networks in our method.
-Other code directory contains code to plot the comparision results.
+OtherCode directory contains code to plot the comparision results.
 
 
 
