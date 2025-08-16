@@ -27,6 +27,7 @@ The serial number (1) (2) ... (9) represents the order in which the program runs
 We compare our method with the other methods. Also, we compare results of using different protein-protein networks in our method.
 OtherCode directory contains code to plot the comparision results.
 
-
+# Citation:
+F. Keikha, L. Li, W. -K. Ching and Z. -P. Liu, "NetWalkRank: Cancer Driver Gene Prioritization in Multiplex Gene Regulatory Networks by a Random Walk Approach," in IEEE Transactions on Computational Biology and Bioinformatics, vol. 22, no. 4, pp. 1875-1887, July-Aug. 2025, doi: 10.1109/TCBBIO.2025.3573742. 
 
 
