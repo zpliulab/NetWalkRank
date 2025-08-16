@@ -1,4 +1,5 @@
 # [NetWalkRank: Cancer driver gene prioritization in multiplex gene regulatory networks by a random walk approach](https://github.com/zpliulab/NetWalkRank)
+![Screenshot](Graphic Abstract.png) 
 
 ## Highlights
 - A method to prioritize cancer driver genes in multistep gene regulatory networks.
